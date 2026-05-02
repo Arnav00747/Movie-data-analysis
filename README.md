@@ -34,7 +34,18 @@ Due to large file size, dataset is not uploaded on GitHub.
 https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset
 
 ---
+## 📊 Dashboard Preview
 
+Below is the visualization dashboard built using HTML, CSS:
+
+<img width="1868" height="844" alt="image" src="https://github.com/user-attachments/assets/16251563-8f2f-4964-a3e6-28e1c4790f05" />
+<img width="1851" height="565" alt="image" src="https://github.com/user-attachments/assets/46b44fdc-1de8-45c4-82f0-6297f12d91c1" />
+<img width="1836" height="756" alt="image" src="https://github.com/user-attachments/assets/a4d6b4fe-bdc9-4457-be32-509a21febbca" />
+
+
+
+
+-----
 ## 🛠️ Tech Stack
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
